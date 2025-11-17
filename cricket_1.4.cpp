@@ -1,3 +1,10 @@
+// Program: Cricket Quiz 1.4
+// Description: This program runs a short cricket quiz that asks the user four questions related to cricket. It checks answers,
+// counts the correct answers, and shows the final score and percentage.
+
+// Afzal Lasker
+
+
 #include <iostream>
 #include <string>
 #include <iomanip>
